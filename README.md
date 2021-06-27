@@ -8,3 +8,7 @@ View Model – the attributes are bound to the controllers so while the user mov
 Model – the update of the attributes is translated into sending a command to the Flight Gear over a TCP connection.
 
 Project UML- 
+![projectuml](https://github.com/y-jacobs/FGRemoteApp/blob/master/UML%20myremoteapp.png)
+
+DEMO Presentation-
+https://github.com/y-jacobs/FGRemoteApp/blob/master/DEMO.mp4
